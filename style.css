@@ -37,4 +37,5 @@ button:active{
 
 button:active::after {
   content: 'X';
+  font-size: large;
 }
